@@ -15,4 +15,4 @@ See the table below:
 
 ![image](https://user-images.githubusercontent.com/100816322/186814054-989b09c0-1ed6-448c-87d3-83150422ecfe.png)
 
-From the table, excepting the helpful_votes equal 0, each range of helpful votes (the helpful_votes greater than 0), the percenge of vinereview always greater than percentage of non-vine review. Therefore, most vine reviews are trustworthy. The vine review program can provide more non-bias reviews to a large extent. 
+From the table, excepting the helpful_votes are equal 0, each range of helpful votes (the helpful_votes are greater than 0), the percenge for vine reviews is always greater than percentage for non-vine review. Therefore, most vine reviews are trustworthy. The vine review program can provide more non-bias reviews to a large extent. 
