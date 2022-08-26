@@ -10,6 +10,8 @@ Two dataframes were created to math production-ready tables: one is from Amazon 
 
 2. Analyze whether reviews from Amazon's Vine program are trustworthy.
 
+The SQL queries based on level1 work for the Amazon customer review datasets about toys.
+
 According to different counts of "helpful_votes", the vine review and non-vine review were compared by the percentatge of "helpful_votes".
 See the table below:
 
