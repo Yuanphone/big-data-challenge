@@ -12,14 +12,7 @@ Two dataframes were created to math production-ready tables: one is from Amazon 
 
 According to different counts of "helpful_votes", the vine review and non-vine review were compared by the percentatge of "helpful_votes".
 See the table below:
-helpful_votes	vine review(vine=Y)	Percentage(vine=Y)	non-vine review(vine=N)	Percentage(vine=Y)2
-0	49516	59.1829417	6639750	68.85330459
-0-5	26188	31.30064781	2396064	24.84685785
-5-10	3662	4.376927306	342742	1.635617911
-10-20	2038	2.435875983	157728	1.635617911
-20-50	1500	1.792842971	78038	0.809243448
-50-100	486	0.580881123	19320	0.200345773
-100-200	196	0.234264815	6764	0.07014176
-great than 200	80	0.095618292	2922	0.030300743
-Total	83666		9643328	
+
 ![image](https://user-images.githubusercontent.com/100816322/186814054-989b09c0-1ed6-448c-87d3-83150422ecfe.png)
+
+From the table, excepting the helpful_votes equal 0, each range of helpful votes (the helpful_votes greater than 0), the percenge of vinereview always greater than percentage of non-vine review. Therefore, most vine reviews are trustworthy. The vine review program can provide more non-bias reviews to a large extent. 
