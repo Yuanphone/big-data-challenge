@@ -6,7 +6,7 @@ This homework assignment contains two levels.
 
 1. Create DataFrames to match production-ready tables from two big Amazon customer review datasets.
 
-Two dataframes were created to math production-ready tables: one is from Amazon customer review datasets about toys, another is from Amazon customer review dataset for jewels.
+Two dataframes were created to math production-ready tables: one is from Amazon customer review datasets about toys, another is from Amazon customer review dataset for jewelry.
 
 
 2. Analyze whether reviews from Amazon's Vine program are trustworthy.
